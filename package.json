@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/luanrodriguespigosso/Rest-com-NodeJS/issues"
   },
-  "homepage": "https://github.com/luanrodriguespigosso/Rest-com-NodeJS#readme"
+  "homepage": "https://github.com/luanrodriguespigosso/Rest-com-NodeJS#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
 }

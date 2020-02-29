@@ -21,3 +21,7 @@ Consign
 ```css
 npm install consign@0.1.6 --save -exact
 ```
+Body-parser
+```css
+npm install body-parser@1.19.0 --save -exact
+```

@@ -13,3 +13,11 @@ Executa aplicação
 ```css
 node index.js
 ```
+Nodemon v1.19.2
+```css
+npm install nodemon@1.19.2 --save-dev -exact
+```
+Consign
+```css
+npm install consign@0.1.6 --save -exact
+```

@@ -25,3 +25,7 @@ Body-parser
 ```css
 npm install body-parser@1.19.0 --save -exact
 ```
+MySQL Ubuntu 18.04
+```css
+https://linuxize.com/post/how-to-install-mysql-on-ubuntu-18-04/
+```

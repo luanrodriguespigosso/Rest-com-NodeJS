@@ -1,3 +1,4 @@
+// Cria as tabelas e define quais campos terá
 class Tabelas {
     init(conexao) {
         this.conexao = conexao;

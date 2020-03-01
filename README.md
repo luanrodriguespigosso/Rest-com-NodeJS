@@ -29,3 +29,12 @@ MySQL Ubuntu 18.04
 ```css
 https://linuxize.com/post/how-to-install-mysql-on-ubuntu-18-04/
 ```
+Correção
+```css
+mysql 5.7 , valor de data como 0000-00-00 00:00:00 não é permitido.
+https://stackoverflow.com/questions/14625191/error-code-1292-incorrect-date-value-mysql
+```
+Moment
+```css
+npm install moment@2.24.0 --save-exact
+```
